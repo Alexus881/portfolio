@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+}
+h1{padding-top:0px;margin-top:0px;}
+.hea{background-color:#0077bb;background-size:100%;
+  min-height:100px;
+}
+.cv1{background-image: url(https://www.kineticspace.net/images/home/background_4.jpg);background-size:100%;
+
+}
+.cv2{background-image: url(http://www.twitterevolutions.com/bgs/frog-silhouette-twitter-background.jpg);background-size:100%;
+}
+.cv3{
+  background-image: url(http://www.kucuu.com/photo/68613183528ff837efe0169c4bd0ebf1.jpg);background-size:100%;
+}
+.row{
+  min-height: 100vh;
+  height: 100%;
+}
+footer{min-height:100px;
+background-image: url(http://www.unitedbiscuits.com/wp-content/themes/unitedbiscuits/images/wood-bg.png?b4f458);}
